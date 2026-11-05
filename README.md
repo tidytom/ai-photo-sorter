@@ -2,8 +2,6 @@
 
 A local, private tool that sorts a folder of photos into subfolders by what is in them (people, pets, scenery, objects) or by which person is in them, for anyone with a large unsorted photo folder and an NVIDIA graphics card.
 
-> Screenshot: add `docs/screenshot.png` (placeholder line — leave it exactly like this for GUI apps)
-
 ## What it does
 - Labels every JPG and PNG photo with **Google SigLIP 2** (one of five labels, such as "A photo of a pet or animal").
 - Finds faces with **InsightFace** and groups photos of the same person together (`Person0`, `Person1`, ...).
