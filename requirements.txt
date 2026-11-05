@@ -1,0 +1,12 @@
+# For the NVIDIA GPU version of PyTorch, install it first (see README.md):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision
+transformers
+pillow
+numpy
+onnxruntime-gpu==1.25.1
+insightface
+opencv-python
+scikit-learn
+gradio

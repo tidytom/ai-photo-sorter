@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Sidecar files the sorter writes next to photos
+*.jpg.json
+*.jpeg.json
+*.png.json
